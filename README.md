@@ -12,6 +12,7 @@ This repository contains a list of events I have attended as either a speaker or
 - Excel@FIT 2024 (visitor)
 - DevConf.CZ 2024 (speaker)
 - ReConnect 2024 (visitor)
+- BIT_Hack 2024 Hackathon (participant)
 - Dny AI 2024 (visitor)
 - GameDev Connect '24 (visitor)
 - Prague Music Week 2024 (visitor)
