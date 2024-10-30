@@ -15,4 +15,5 @@ This repository contains a list of events I have attended as either a speaker or
 - BIT_Hack 2024 Hackathon (participant)
 - Dny AI 2024 (visitor)
 - GameDev Connect '24 (visitor)
+- Hacktoberfest 2024 (participant)
 - Prague Music Week 2024 (visitor)
